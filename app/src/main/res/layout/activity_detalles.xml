@@ -11,9 +11,9 @@
         android:id="@+id/LvImageFoto"
         android:layout_width="254dp"
         android:layout_height="205dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="72dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.419"
+        app:layout_constraintHorizontal_bias="0.375"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_launcher_background" />
